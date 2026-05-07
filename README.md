@@ -56,4 +56,4 @@ nearmrg person_id using "events.dta", nearvar(date = event_date) lower limit(30)
 eric.a.booth@gmail.com  
 [https://github.com/ericbooth/nearmrg-stata](https://github.com/ericbooth/nearmrg-stata)
 
-*Original package co-authored by Michael Blasnik and Katherine Smith (2003).*
+*Original package co-authored by Michael Blasnik and Katherine Smith (2003). Eric Booth took over and rewrote the package starting in 2010.*
